@@ -11,6 +11,9 @@
     "url": "https://github.com/rwillmer/ng2-firebase-step-by-step"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-protractor": "^3.0.0",
+    "protractor": "^4.0.14"
   }
 }
